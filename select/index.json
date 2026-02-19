@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ピアフ",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-19T08:16:33.072073Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピアフ",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_ピアフ_RADWIMPS.txt"
+    }
+  ]
+}
